@@ -17,3 +17,5 @@ The text editor can even be installed onto the user's device.
 ![screenshots](./assets/screenshot.png)
 
 ## Link
+
+Launch deployed app [here](https://tn-pwa-jate.onrender.com)
