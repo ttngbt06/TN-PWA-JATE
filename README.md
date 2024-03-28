@@ -15,3 +15,5 @@ The text editor can even be installed onto the user's device.
 ## Screenshots
 
 ![screenshots](./assets/screenshot.png)
+
+## Link
