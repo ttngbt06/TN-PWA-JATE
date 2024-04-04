@@ -8,6 +8,7 @@
     "start": "cd server && node server.js",
     "server": "cd server nodemon server.js --ignore client",
     "build": "cd client && npm run build",
+    "prebuild": "cd client && rm -rf dist",
     "install": "cd server && npm i && cd ../client && npm i",
     "postinstall": "npm run build",
     "client": "cd client && npm start"
